@@ -1,0 +1,2 @@
+SampleID,Version (JIRA submission sheet) ,Broad SCRSP Issue Key (Encaps/SeqID),Platform,Version,Project Name,Date Initiated,Project Description,Lab,Owner,ImmGen?,Organ,Genetic Variation,Sex,Genetic Background,Age(days),Prep Description,Organism,Cell Types,Separation Method,Sorting Markers ,HTY/N,Lanes,TotalSeq Hashtag,Hashtag,Total Cells Hashed
+IGT7_2,V4,,Broad 10x,10x 5'V2,ImmGen T 7_2,,,ImmGen Core,Ian Magill,Yes,,B6,,B6,,,Mouse,,,,,,TotalSeq C Anti-Mouse,,
