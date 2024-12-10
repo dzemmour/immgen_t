@@ -1,0 +1,28 @@
+$Seurat
+[1] "SeuratObject" "Seurat"       "stats"        "graphics"     "grDevices"   
+[6] "utils"        "datasets"     "methods"      "base"        
+
+$ggplot2
+ [1] "ggplot2"      "SeuratObject" "Seurat"       "stats"        "graphics"    
+ [6] "grDevices"    "utils"        "datasets"     "methods"      "base"        
+
+$inflection
+ [1] "inflection"   "ggplot2"      "SeuratObject" "Seurat"       "stats"       
+ [6] "graphics"     "grDevices"    "utils"        "datasets"     "methods"     
+[11] "base"        
+
+$grid
+ [1] "grid"         "inflection"   "ggplot2"      "SeuratObject" "Seurat"      
+ [6] "stats"        "graphics"     "grDevices"    "utils"        "datasets"    
+[11] "methods"      "base"        
+
+$gridExtra
+ [1] "gridExtra"    "grid"         "inflection"   "ggplot2"      "SeuratObject"
+ [6] "Seurat"       "stats"        "graphics"     "grDevices"    "utils"       
+[11] "datasets"     "methods"      "base"        
+
+$UCell
+ [1] "UCell"        "gridExtra"    "grid"         "inflection"   "ggplot2"     
+ [6] "SeuratObject" "Seurat"       "stats"        "graphics"     "grDevices"   
+[11] "utils"        "datasets"     "methods"      "base"        
+
